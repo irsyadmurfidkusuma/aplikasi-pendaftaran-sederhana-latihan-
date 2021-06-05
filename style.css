@@ -1,0 +1,53 @@
+.container {
+    margin: auto;
+    width: 1000px;
+}
+
+h2 {
+    width: 300px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+form {
+    margin: auto;
+}
+
+.table {
+    margin: auto;
+    font-family: sans-serif;
+    color: #232323;
+    border-collapse: collapse;
+    width: 70%;
+    color: rgb(34, 148, 255);
+    border: 0px solid;
+}
+
+.table tr td {
+    padding: 8px 10px;
+    min-width: 200px;
+}
+
+.table tr th {
+    padding: 8px 10px;
+    border-bottom: 2px solid salmon;
+    color: salmon;
+}
+
+.submit {
+    color: rgb(35, 188, 248);
+    background-color: rgba(255, 255, 170, 0.829);
+    padding: 8px 15px;
+    font-weight: bold;
+    border: 1px;
+    border-radius: 5px;
+}
+
+.reset {
+    color: salmon;
+    background-color: rgba(255, 255, 170, 0.829);
+    padding: 8px 15px;
+    font-weight: bold;
+    border: 1px;
+    border-radius: 5px;
+}
